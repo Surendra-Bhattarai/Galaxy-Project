@@ -1,1 +1,2 @@
-# Galaxy-Project
+### MaNGA galaxy
+### Software: Marvin
